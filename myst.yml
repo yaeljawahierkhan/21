@@ -7,7 +7,7 @@ project:
     - name: Roel Smit
 
   date: 2025-11-05
-  github: https://github.com/Contemporary-Physicslab/thermolab # Change this URL to your GitHub repository
+  github: https://github.com/yaeljawahierkhan/21 # Change this URL to your GitHub repository
 
 extends:
   - plugins.yml
